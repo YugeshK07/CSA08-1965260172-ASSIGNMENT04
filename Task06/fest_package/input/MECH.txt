@@ -1,0 +1,2 @@
+192311007,Gokul,MECH,gokul@example.com,Coding;Drama
+broken registration row

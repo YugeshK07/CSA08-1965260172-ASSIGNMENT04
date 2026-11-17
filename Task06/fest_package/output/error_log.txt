@@ -1,0 +1,4 @@
+CSE.txt: line 3: invalid email address 'charan.example.com'
+ECE.txt: line 2: duplicate register number 192311002; ignored
+MECH.txt: line 2: expected 5 comma-separated fields, found 1
+CIVIL.txt: line 0: department file is missing

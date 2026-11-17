@@ -1,0 +1,8 @@
+Valid unique registrations: 7
+Duplicate registrations ignored: 1
+Registrations by department:
+CSE: 3
+ECE: 2
+EEE: 1
+MECH: 1
+Unique events: 6
